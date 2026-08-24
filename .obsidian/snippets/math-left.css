@@ -1,0 +1,16 @@
+mjx-container[display="true"] {
+  text-align: left !important;
+  margin-left: 0 !important;
+}
+
+mjx-container[display="true"] > svg {
+  margin-left: 0 !important;
+}
+
+.math.math-display {
+  text-align: left !important;
+}
+
+.math-block {
+  text-align: left !important;
+}

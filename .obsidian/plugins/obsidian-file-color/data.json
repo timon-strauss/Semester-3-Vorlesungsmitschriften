@@ -1,0 +1,186 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Yx2__OHLNMOrxkrV2peiq",
+      "name": "",
+      "value": "#ff00dd"
+    },
+    {
+      "id": "Sb2cJgWnZ_KrcrhBcvurS",
+      "name": "",
+      "value": "#00b3ff"
+    },
+    {
+      "id": "FYm1Nx83wjOpxA4O-HfkV",
+      "name": "",
+      "value": "#a3c6ff"
+    },
+    {
+      "id": "R0GCcEAny_CqDo5qMxF0C",
+      "name": "",
+      "value": "#ffea00"
+    },
+    {
+      "id": "Oi8DhvT3hbRHF1i_aYvIi",
+      "name": "",
+      "value": "#04ff00"
+    },
+    {
+      "id": "Vt5W7Y2sVvnoaL8BYDXfX",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Dashboard.md",
+      "color": "Sb2cJgWnZ_KrcrhBcvurS"
+    },
+    {
+      "path": "00 Inbox",
+      "color": "R0GCcEAny_CqDo5qMxF0C"
+    },
+    {
+      "path": "10 Projects",
+      "color": "FYm1Nx83wjOpxA4O-HfkV"
+    },
+    {
+      "path": "20 Areas",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "30 Resources",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "40 Archives",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "00 Inbox/Daily",
+      "color": "R0GCcEAny_CqDo5qMxF0C"
+    },
+    {
+      "path": "00 Inbox/Notizen",
+      "color": "R0GCcEAny_CqDo5qMxF0C"
+    },
+    {
+      "path": "10 Projects/PA Plugin",
+      "color": "FYm1Nx83wjOpxA4O-HfkV"
+    },
+    {
+      "path": "20 Areas/SAP Kurssprecher",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "20 Areas/Mayo-Meetings",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "20 Areas/Praxisphasen",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "30 Resources/Templates",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "40 Archives/Mayo-Meetings",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "40 Archives/Praxisphasen",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "40 Archives/Moana",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "20 Areas/Abteilung",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "40 Archives/Projekte",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "20 Areas/DHBW Kurssprecher",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "20 Areas/DHBW Vorlesungen",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "40 Archives/Dailys",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "10 Projects/PA1 Application Logging",
+      "color": "FYm1Nx83wjOpxA4O-HfkV"
+    },
+    {
+      "path": "01 Vorlesungen",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "03 Templates",
+      "color": "Yx2__OHLNMOrxkrV2peiq"
+    },
+    {
+      "path": "02 Laufendes",
+      "color": "Sb2cJgWnZ_KrcrhBcvurS"
+    },
+    {
+      "path": "DHBW Dashboard.md",
+      "color": "Vt5W7Y2sVvnoaL8BYDXfX"
+    },
+    {
+      "path": "02 Laufendes/DHBW Kurssprecher",
+      "color": "Sb2cJgWnZ_KrcrhBcvurS"
+    },
+    {
+      "path": "01 Vorlesungen/Advanced IT",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Bilanzierung",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Datenbanken",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Fallstudie",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Finanzierung & Investierung",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Operations Research",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Software Engineering",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/Statistik",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "01 Vorlesungen/VWL",
+      "color": "Oi8DhvT3hbRHF1i_aYvIi"
+    },
+    {
+      "path": "02 Laufendes/Semester 3 Planung",
+      "color": "Sb2cJgWnZ_KrcrhBcvurS"
+    }
+  ]
+}

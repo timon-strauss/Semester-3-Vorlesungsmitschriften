@@ -1,0 +1,5 @@
+{
+  "format": "DD.MM.YYYY [Dailynote]",
+  "folder": "00 Inbox/Daily",
+  "template": "30 Resources/Templates/DD.MM.YYYY Dailynote.md"
+}

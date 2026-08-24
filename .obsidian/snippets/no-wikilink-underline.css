@@ -1,0 +1,29 @@
+/* Remove underline from wiki/internal links */
+
+/* Reading mode */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a.internal-link:hover,
+.markdown-preview-view a.internal-link:focus,
+.markdown-preview-view a.internal-link:active,
+.markdown-rendered a.internal-link,
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.internal-link:focus,
+.markdown-rendered a.internal-link:active,
+.markdown-preview-view a,
+.markdown-rendered a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  background-image: none !important;
+}
+
+/* Live Preview / Source mode */
+.cm-hmd-internal-link,
+.cm-link-alias,
+.cm-link-alias-pipe,
+.cm-underline,
+.cm-s-obsidian span.cm-hmd-internal-link,
+.cm-s-obsidian span.cm-link {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  background-image: none !important;
+}

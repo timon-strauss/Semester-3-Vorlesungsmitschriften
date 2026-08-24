@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "tasks-backlink-icon",
+    "task-in-progress",
+    "no-strikethrough-tasks",
+    "no-wikilink-underline",
+    "math-left"
+  ],
+  "theme": "system",
+  "accentColor": ""
+}

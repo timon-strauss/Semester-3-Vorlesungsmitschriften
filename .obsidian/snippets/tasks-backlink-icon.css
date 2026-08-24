@@ -1,0 +1,9 @@
+/* Tasks Plugin: Backlink als Icon */
+.tasks-backlink a.internal-link {
+    font-size: 0;
+}
+
+.tasks-backlink a.internal-link::before {
+    content: "🔗";
+    font-size: var(--font-ui-small);
+}

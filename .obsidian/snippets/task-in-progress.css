@@ -1,0 +1,34 @@
+/* In Progress [/]: minus symbol, no strikethrough */
+
+/* Override strikethrough */
+.markdown-preview-view ul > li.task-list-item[data-task="/"].is-checked,
+.markdown-source-view ul > li.task-list-item[data-task="/"].is-checked {
+    text-decoration: none !important;
+    color: var(--text-normal) !important;
+}
+
+/* Checkbox border: yellow, no fill */
+.contains-task-list li[data-task="/"].is-checked.task-list-item::before {
+    border: 2px solid var(--color-yellow) !important;
+    background-color: transparent !important;
+    animation: none !important;
+}
+
+/* Replace checkmark with minus, centered in the 20x20 box at left:-25px top:2px */
+.contains-task-list li[data-task="/"].is-checked.task-list-item::after {
+    content: "−" !important;
+    position: absolute !important;
+    top: 1px !important;
+    left: -1px !important;
+    width: 20px !important;
+    height: 20px !important;
+    line-height: 20px !important;
+    text-align: center !important;
+    border: none !important;
+    transform: none !important;
+    animation: none !important;
+    color: var(--color-yellow) !important;
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    z-index: 5 !important;
+}

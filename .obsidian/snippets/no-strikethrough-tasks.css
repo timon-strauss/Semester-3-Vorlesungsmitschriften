@@ -1,0 +1,27 @@
+/* Remove strikethrough (and accent color) from completed tasks.
+   Selectors are written to out-specify Obsidianite theme rules. */
+
+/* Reading view — matches theme selector at higher specificity via body */
+body .markdown-preview-view ul > li.task-list-item.is-checked,
+body .markdown-preview-view ul > li.task-list-item.is-checked * {
+  text-decoration: none !important;
+  color: var(--text-normal) !important;
+}
+
+/* Live Preview (CM6) — checked task lines */
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"],
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"],
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] *,
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] * {
+  text-decoration: none !important;
+  color: var(--text-normal) !important;
+}
+
+/* Fallback: any element inside a checked task item */
+body .task-list-item.is-checked,
+body .task-list-item.is-checked *,
+body .cm-s-obsidian .HyperMD-task-line[data-task="x"],
+body .cm-s-obsidian .HyperMD-task-line[data-task="X"] {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
