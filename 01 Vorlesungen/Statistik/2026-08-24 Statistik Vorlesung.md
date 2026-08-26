@@ -134,12 +134,12 @@ $X > Z > M$: Linkssteil
 $X < Z < M$: Rechtssteil
 
 # Aufgabe Todo
-- [ ] #task 📅 2026-09-07 Aufgaben 1 - 8 Übungsskript Statistik
-	- [ ] Aufgabe 1
-	- [ ] Aufgabe 2
-	- [ ] Aufgabe 3
-	- [ ] Aufgabe 4
-	- [ ] Aufgabe 5
-	- [ ] Aufgabe 6
-	- [ ] Aufgabe 7
-	- [ ] Aufgabe 8
+- [x] #task 📅 2026-09-07 Aufgaben 1 - 8 Übungsskript Statistik
+	- [x] Aufgabe 1
+	- [x] Aufgabe 2
+	- [x] Aufgabe 3
+	- [x] Aufgabe 4
+	- [x] Aufgabe 5
+	- [x] Aufgabe 6
+	- [x] Aufgabe 7
+	- [x] Aufgabe 8

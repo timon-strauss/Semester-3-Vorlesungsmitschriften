@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d0717c6f690ffc8",
+        "id": "af35b2c29ba110db",
         "type": "tabs",
         "children": [
           {
-            "id": "cc895a715e8c344d",
+            "id": "f7034e1d4bc2b3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Untitled.md",
-                "mode": "source",
+                "file": "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2026-08-25 Advanced IT Vorlesung"
             }
           }
         ]
@@ -262,11 +262,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 659.5703125
+    "width": 427.70703125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,19 +285,21 @@
   },
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
-    "00 Inbox/Untitled.md",
-    "02 Laufendes/DHBW Kurssprecher/Untitled.md",
+    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
+    "00 Inbox/Übung Statistik Skript 1-8.md",
     "DHBW Dashboard.md",
-    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
+    "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
+    "02 Laufendes/DHBW Kurssprecher/2026-08-25 Greg Projekt Gemini.md",
     "01 Vorlesungen/Statistik/2026-08-24 Statistik Vorlesung.md",
-    "Untitled 1.canvas",
     "01 Vorlesungen/Statistik/Statistik Klausurvorbereitung.md",
+    "02 Laufendes/DHBW Kurssprecher/Untitled.md",
+    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "01 Vorlesungen/Statistik/Beispiel Lagerparameter Nettostundenverdienste.md",
     "01 Vorlesungen/Statistik/Beispiel Median Monatsgelder.md",
     "01 Vorlesungen/Statistik/Beispiel Geometrisches Mittel Unternehmensgewinn.md",
-    "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
     "01 Vorlesungen/Operations Research/OR Klausurvorbereitung.md",
     "02 Laufendes/Semester 3 Planung",
     "01 Vorlesungen/Advanced IT/test.md",
