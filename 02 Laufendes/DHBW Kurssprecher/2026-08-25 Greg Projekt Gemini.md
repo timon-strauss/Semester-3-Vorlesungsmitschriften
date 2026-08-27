@@ -27,4 +27,4 @@ Greg will AI projekt machen, aber nicht alle aus dem Kurs haben AI zugriffe
 => Lösung die wir nehmen!
 
 ## Todo
-- [ ] #task 📅 2026-08-28 Checken, dass alle Gemini Pro haben für Gregs Projekt
+- [x] #task 📅 2026-08-28 Checken, dass alle Gemini Pro haben für Gregs Projekt

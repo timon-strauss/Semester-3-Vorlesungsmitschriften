@@ -36,7 +36,9 @@ Beispiel: Vorlesungsplanung
 Linear ist sobald: die Zielfunktionen und Nebenbedingungen durch eine lineare Funktion beschrieben werden können
 
 # Todo
-- [ ] #task 📅 2026-08-31 OR: Anschauen lineare Gleichungssysteme
-	- [ ] #task Was sind lineare Funktionen?
-	- [ ] #task Wann ist eine Funktion linear?
-- [ ] #task 📅 2026-08-31 OR: Pivot- und Gaußverfahren anschauen
+- [x] #task 📅 2026-08-31 OR: Anschauen lineare Gleichungssysteme
+	- [x] #task Was sind lineare Funktionen?
+	- [x] #task Wann ist eine Funktion linear?
+- [x] #task 📅 2026-08-31 OR: Pivot- und Gaußverfahren anschauen
+
+=> [[Übung OR Lineare Gleichungssysteme u. Gauß]]

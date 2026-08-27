@@ -18,4 +18,4 @@ tags:
 - [ ] #task/klausur ⏳ 2026-11-03 Volkswirtschaftslehre
 - [ ] #task/klausur ⏳ 2026-11-10 Advanced IT
 - [ ] #task/projekt 📅 2026-11-13 Fallstudie
-- [ ] #task/projekt 📅 2026-11-13 Kernkonzepte Software-Engineering
+- [ ] #task/projekt 📅 2026-10-16 Kernkonzepte Software-Engineering

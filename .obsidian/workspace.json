@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af35b2c29ba110db",
+        "id": "9053db78f8289275",
         "type": "tabs",
         "children": [
           {
-            "id": "f7034e1d4bc2b3c1",
+            "id": "a931f052e66d35a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
-                "mode": "preview",
+                "file": "00 Inbox/27-08-2026 VWL Vorlesung.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-25 Advanced IT Vorlesung"
+              "title": "27-08-2026 VWL Vorlesung"
             }
           }
         ]
@@ -220,7 +220,7 @@
       {
         "id": "585120ddfd598b79",
         "type": "tabs",
-        "dimension": 28.012048192771086,
+        "dimension": 28.01204819277108,
         "children": [
           {
             "id": "151a164301e99836",
@@ -285,15 +285,21 @@
   },
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
-    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
-    "00 Inbox/Übung Statistik Skript 1-8.md",
+    "00 Inbox/27-08-2026 VWL Vorlesung.md",
     "DHBW Dashboard.md",
+    "01 Vorlesungen/Software Engineering/2026-08-27 SE II Vorlesung.md",
+    "00 Inbox/2026-08-27 SE II Kapitel 1.md",
+    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/Übung Advanced IT Osi Modell.md",
+    "01 Vorlesungen/Operations Research/Übung OR Lineare Gleichungssysteme u. Gauß.md",
     "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
+    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
+    "00 Inbox/2026-08-26.md",
+    "00 Inbox/Übung Statistik Skript 1-8.md",
     "02 Laufendes/DHBW Kurssprecher/2026-08-25 Greg Projekt Gemini.md",
     "01 Vorlesungen/Statistik/2026-08-24 Statistik Vorlesung.md",
     "01 Vorlesungen/Statistik/Statistik Klausurvorbereitung.md",
     "02 Laufendes/DHBW Kurssprecher/Untitled.md",
-    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",

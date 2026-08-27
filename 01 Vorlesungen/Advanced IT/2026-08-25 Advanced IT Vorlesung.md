@@ -14,7 +14,9 @@ tags:
 - application =>
 
 # Todo
-- [ ] #task 📅 2026-08-31 Advanced IT Osi Schichtenmodell wiederholen 
+- [x] #task 📅 2026-08-31 Advanced IT Osi Schichtenmodell wiederholen
+
+=> [[Übung Advanced IT Osi Modell]]
 
 # Allgemeines
 - POSIX => Standard schnittstelle vom OS

@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/timon-strauss/Semester-3-Vorlesungsmitschriften",
+  "gitLocation": "",
+  "syncinterval": 720,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
