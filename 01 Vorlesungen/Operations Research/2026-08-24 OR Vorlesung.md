@@ -34,6 +34,7 @@ Beispiel: Vorlesungsplanung
 
 # Lineare Optimierungsprobleme
 Linear ist sobald: die Zielfunktionen und Nebenbedingungen durch eine lineare Funktion beschrieben werden können
+Linear Funktion: Keine Produkte oder Potenzen der Variablen
 
 # Todo
 - [x] #task 📅 2026-08-31 OR: Anschauen lineare Gleichungssysteme

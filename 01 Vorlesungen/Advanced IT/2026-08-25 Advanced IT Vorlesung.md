@@ -20,7 +20,7 @@ tags:
 
 # Allgemeines
 - POSIX => Standard schnittstelle vom OS
-- System calls sind routinen die das OS abietet, um befehle auszuführen. Sie kontrollieren zb Berechtigungen
+- **System calls** sind routinen die das OS abietet, um befehle auszuführen. Sie kontrollieren zb Berechtigungen
 - shell => möglichkeit zur kommunikation zum OS
 - Hilfsprogramme sind vorgefertigt vom OS, kapseln System calls, zb Dateiname ändern
 
