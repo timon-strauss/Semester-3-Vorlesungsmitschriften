@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DHBW Dashboard.md",
+                "file": "01 Vorlesungen/VWL/2026-09-02 VWL Vorlesung.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DHBW Dashboard"
+              "title": "2026-09-02 VWL Vorlesung"
             }
           }
         ]
@@ -283,44 +283,48 @@
   },
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
-    "DHBW Dashboard.md",
-    "01 Vorlesungen/Advanced IT/Übung Advanced IT Osi Modell.md",
+    "01 Vorlesungen/VWL/2026-09-02 VWL Vorlesung.md",
     "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/2026-09-01 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
+    "DHBW Dashboard.md",
+    "02 Laufendes/iCinema Projekt/iCinema Planung Modul Movie Catalog.canvas",
+    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
+    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.47.54.png",
+    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.50.58.png",
+    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.49.59.png",
+    "03 Templates/Screenshots/Screenshot 2026-09-02 at 09.21.45.png",
+    "03 Templates/Screenshots",
+    "01 Vorlesungen/VWL/27-08-2026 VWL Vorlesung.md",
+    "00 Inbox/Untitled",
+    "03 Templates/Screenshots/Screenshot 2026-09-01 at 10.53.12.png",
+    "01 Vorlesungen/Statistik/2026-08-24 Statistik Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/Übung Advanced IT Osi Modell.md",
     "01 Vorlesungen/Operations Research/2026-08-31 OR Vorlesung.md",
     "01 Vorlesungen/Operations Research/Übung Or Pivot Verfahren.md",
     "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
     "01 Vorlesungen/Operations Research/Übung OR Lineare Gleichungssysteme u. Gauß.md",
     "01 Vorlesungen/Statistik/Beispiel Median Monatsgelder.md",
     "01 Vorlesungen/Operations Research/OR Klausurvorbereitung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
-    "02 Laufendes/iCinema Projekt/iCinema Planung Modul Movie Catalog.canvas",
     "02 Laufendes/Untitled.md",
     "02 Laufendes/iCinema Projekt",
     "00 Inbox/prüfung.md",
-    "01 Vorlesungen/VWL/27-08-2026 VWL Vorlesung.md",
     "01 Vorlesungen/Software Engineering/2026-08-27 SE II Vorlesung.md",
     "00 Inbox/2026-08-27 SE II Kapitel 1.md",
-    "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
     "00 Inbox/2026-08-26.md",
     "00 Inbox/Übung Statistik Skript 1-8.md",
     "02 Laufendes/DHBW Kurssprecher/2026-08-25 Greg Projekt Gemini.md",
-    "01 Vorlesungen/Statistik/2026-08-24 Statistik Vorlesung.md",
     "01 Vorlesungen/Statistik/Statistik Klausurvorbereitung.md",
     "02 Laufendes/DHBW Kurssprecher/Untitled.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "01 Vorlesungen/Statistik/Beispiel Lagerparameter Nettostundenverdienste.md",
-    "01 Vorlesungen/Statistik/Beispiel Geometrisches Mittel Unternehmensgewinn.md",
     "02 Laufendes/Semester 3 Planung",
-    "01 Vorlesungen/Advanced IT/test.md",
     "01 Vorlesungen/VWL",
     "01 Vorlesungen/Statistik",
     "01 Vorlesungen/Software Engineering",
     "01 Vorlesungen/Operations Research",
     "01 Vorlesungen/Finanzierung & Investierung",
-    "01 Vorlesungen/Fallstudie",
-    "01 Vorlesungen/Datenbanken",
-    "01 Vorlesungen/Bilanzierung",
-    "Test.md"
+    "01 Vorlesungen/Fallstudie"
   ]
 }

@@ -56,5 +56,5 @@ Das $z_k$, für welches die Gerade den Eckpunkt tangiert, wird $z_max$, bzw $z_m
 => Hat man ein lokales Maxima gefunden, muss es global sein: Annahme bestätigt
  
 # Todo
-- [ ] #task OR: Pivot Verfahren anschauen
-- [ ] #task OR: 2.2 & 2.3 Wiederholen
+- [x] #task OR: Pivot Verfahren anschauen
+- [x] #task OR: 2.2 & 2.3 Wiederholen

@@ -23,7 +23,7 @@ Vogelperspektive: ich schau aufs gesamtbild
 - Ausland
 
 **EInzelwirtschaftliche Entscheidungen**:
-- Sind of gesamtwirtschaftlich vorteilhaft
+- Sind auf gesamtwirtschaftlich vorteilhaft
 - Manchmal stehen sie im Spannungsfeld zur Gesamtwirtschaft
 
 Beispiele:
@@ -114,7 +114,8 @@ Dienen dazu andere Güter herzustellen
 - **Vorleistungen**: Dienstleistungen, die ein anderes Gut vorleisten, zb Reinigung
 - **Investitionsgüter**: Güter, die andere Güter herstellen, zb Maschinen
 
-Güter können je nach verwendungszweck mehreren Kategorien angehören
+Güter können je nach verwendungszweck mehreren Kategorien angehören.
+Beispiel: Laptop => gebrauchsgut oder Investitionsgut
 
 ## Privat vs Öffentlich vs Meritorisch vs Demotorisch
 **Ausschlussprinzip**: Jemand kann den Kaufpreis nicht bezahlen und erhält daher kein Gut
@@ -140,7 +141,7 @@ Begründung für kostenlose Bereitstellung
 - Verteilungsaspekte => **Gerechtigkeit**: Wenn schule geld kostet sind die Bedingungen zu lernen unfair
 
 **Demetorische Güter**: zb Zigaretten
-- Der Staat möchte den Erhalte verhindern/erschweren
+- Der Staat möchte den Erhalt verhindern/erschweren
 
 ## Produktionsfunktion und Transformationskurve
 - Der Output Y ist von den Produktionsfaktoren, zb Arbeitskräfte abhängig.
