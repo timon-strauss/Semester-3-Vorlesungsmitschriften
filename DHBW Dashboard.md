@@ -1,3 +1,10 @@
+# Module zum lernen
+- Operations Research
+- Statistik
+- VWL
+- Advanced IT
+- Finanzierung & Investment/Bilanzierung
+
 # Todo
 ```tasks
 not done

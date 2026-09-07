@@ -22,8 +22,8 @@ Vogelperspektive: ich schau aufs gesamtbild
 - Staat
 - Ausland
 
-**EInzelwirtschaftliche Entscheidungen**:
-- Sind auf gesamtwirtschaftlich vorteilhaft
+**Einzelwirtschaftliche Entscheidungen**:
+- Sind für gesamtwirtschaft vorteilhaft
 - Manchmal stehen sie im Spannungsfeld zur Gesamtwirtschaft
 
 Beispiele:

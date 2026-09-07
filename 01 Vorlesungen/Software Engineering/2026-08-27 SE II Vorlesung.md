@@ -12,7 +12,7 @@ tags:
 - Vorstellung: 22-10-2026
 
 # Todo 
-- [ ] #task 📅 2026-09-03: Fallbeispiel durchlesen  
+- [x] #task 📅 2026-09-03: Fallbeispiel durchlesen
 
 # Software engineering
 **Definition**: Entwickeln von brauchbarer Software, die den Anforderungen genügt

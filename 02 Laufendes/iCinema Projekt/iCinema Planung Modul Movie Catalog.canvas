@@ -7,10 +7,10 @@
 		{"id":"75a4217396f0ccd2","type":"text","text":"API Layer","x":-160,"y":-40,"width":250,"height":60},
 		{"id":"7faedac18f1e131e","type":"text","text":"Presentation\n","x":-160,"y":-160,"width":250,"height":60},
 		{"id":"6f87039dc184edd2","type":"text","text":"External Movie DB","x":-520,"y":100,"width":250,"height":50},
-		{"id":"87aa5de5f6e20c09","type":"text","text":"TMDB Caller","x":-485,"y":150,"width":180,"height":60},
-		{"id":"f24452aa7eb72127","type":"text","text":"OMDB Caller","x":-485,"y":210,"width":180,"height":60},
-		{"id":"1b113010e6e0a3cf","type":"text","text":"TMDB Caller","x":-820,"y":150,"width":180,"height":60},
-		{"id":"468ecc76c448ed59","type":"text","text":"External Movie DB","x":-820,"y":210,"width":180,"height":60}
+		{"id":"87aa5de5f6e20c09","type":"text","text":"TMDB Client","x":-485,"y":150,"width":180,"height":60},
+		{"id":"f24452aa7eb72127","type":"text","text":"OMDB Client","x":-485,"y":210,"width":180,"height":60},
+		{"id":"1b113010e6e0a3cf","type":"text","text":"TMDB Call","x":-820,"y":150,"width":180,"height":60},
+		{"id":"468ecc76c448ed59","type":"text","text":"OMDB Call","x":-820,"y":210,"width":180,"height":60}
 	],
 	"edges":[
 		{"id":"7fc100282111826c","fromNode":"7faedac18f1e131e","fromSide":"bottom","toNode":"75a4217396f0ccd2","toSide":"top"},
