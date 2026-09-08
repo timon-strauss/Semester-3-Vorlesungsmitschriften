@@ -7,6 +7,8 @@ tags:
 **Programm**: Folge von Maschinenbefehlen, die auf dem Prozessor ausführbar sind (passiv)
 
 **Prozess**: stellt Ausführungsumgebung für Programme
+- Schutzumgebung => Prozesse beeinflussen sich nicht gegenseitig direkt
+- Eigener Adressraum
 
 **Multi-Processing System**: kann mehrere Prozesse zeitgleich laden
 - Adressräume müssen vollständig abgetrennt sein, sonst gibt es probleme
@@ -77,12 +79,29 @@ Mehrere Prozesse innerhalb der selben Anwendung
 
 `&` => Pointer: es wird nur die Adresse übertragen
 
-**User Level Threads** => Kernel kennt nur Prozesse, keine Threads
-	- Threads realisiert durch Sprachbibliotheken oder eigen implementation
-	- **asynchrone E/A** => Auslagerung des Wartens auf Eingabe auf Thread, Prozess kann weiterlaufen => Thread wartet auf Eingabe, rest arbeitet weiter: Interupt sobald Thread die Eingabe abgearbeitet hat
-	- Eigene Scheduling Strategie
-**Kernel Level Threads** => Threads sind im Kernel bekannt und auf Prozesse gemappt
-	- Threads können auf Prozessorkerne aufgeteilt werden => User Level nur Prozesse
-	- Bei UL blocken Threads bei zb Seitenfehlern den kompletten Prozess, bei KL kann der Prozess weiterlaufen
-	- Thread funktionen sind alles System calls
+### User Level Threads
+ Kernel kennt nur Prozesse, keine Threads
+
+**Vorteile**:
+- Effizienter: Keine Systemcalls, da wir im Prozess wechseln und nicht auf dem Kern selbst
+- Flexibilität: Kernel kennt Threads nicht => ich kann selbst meine Scheduling Strategie wählen
+- Skalierbarkeit: Threads verbrauchen keine Speicherressourcen => ich kann ganz viele machen
+
+**Nachteile**:
+- Blockierung: Wartet ein Thread auf Daten (E/A) blockiert der gesamte Prozess (synchrone E/A)
+- => Lösung dafür: **Asynchrone E/A** => Prozess stößt E/A an, switcht intern den Thread und läuft weiter. Prozess wartet nicht auf E/A sondern nimmt nur entgegen, damit der Thread weitermachen kann. Dafür wird nicht der normale Systemcall für E/A aufgerufen, sondern eine non blocking Anfrage
+- Keine Parallellität: Prozess kann Threads nicht auf Kerne verteilen, da der Kernel diese nicht kennt
+
+### Kernel Level Threads
+Threads sind im Kernel bekannt und auf Prozesse gemappt
+
+**Vorteile**:
+- Parallellität: Threads können auf kerne verteilt werden
+- Keine Blockierung: geblockte Threads blockieren nicht den Prozess
+
+**Nachteil**:
+- Nicht jeder Kernel implementiert KL Threads
+- System call overhead: Kontextwechsel, da bei Prozesswechsel der Kontext geladen wird
 	- System calls sind teuer => threads recyceln: Threads nicht beenden sonder wiederverwenden
+- Ressourcenverbrauch: Threads müssen im kernel gespeichert sein
+- Scheduling: OS definiert scheduling

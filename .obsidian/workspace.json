@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Vorlesungen/Statistik/2026-09-07 Statistik Vorlesung.md",
+                "file": "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-07 Statistik Vorlesung"
+              "title": "2026-08-31 Advanced IT Vorlesung"
             }
           }
         ]
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "acb7e1662dfa4393",
@@ -264,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.70703125
+    "width": 415.3984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,6 +284,12 @@
   },
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
+    "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Advanced IT/2026-09-08 Advanced IT Vorlesung.md",
+    "DHBW Dashboard.md",
+    "01 Vorlesungen/Advanced IT/Übung Advanced IT Aufgabe 10.md",
+    "01 Vorlesungen/Advanced IT/2026-09-01 Advanced IT Vorlesung.md",
     "01 Vorlesungen/Statistik/2026-09-07 Statistik Vorlesung.md",
     "01 Vorlesungen/Statistik/Beispiel Gini Koeffizient & Lorenzkurve.md",
     "01 Vorlesungen/Statistik/Beispiel Bedingte Häufigkeitsverteilung & Statistische Unabhängigkeit.md",
@@ -302,17 +309,13 @@
     "03 Templates/Screenshots/Screenshot 2026-09-01 at 10.53.12.png",
     "03 Templates/Screenshots/IMG_2905.HEIC",
     "03 Templates/IMG_2905.HEIC",
-    "DHBW Dashboard.md",
     "01 Vorlesungen/VWL/27-08-2026 VWL Vorlesung.md",
     "01 Vorlesungen/Statistik/2026-08-24 Statistik Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-01 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
     "01 Vorlesungen/Statistik/Beispiel Median Monatsgelder.md",
     "01 Vorlesungen/Statistik/Statistik Klausurvorbereitung.md",
     "01 Vorlesungen/Statistik/Beispiel Lagerparameter Nettostundenverdienste.md",
     "02 Laufendes/iCinema Projekt/iCinema Planung Modul Movie Catalog.canvas",
     "01 Vorlesungen/Software Engineering/2026-08-27 SE II Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
     "02 Laufendes/Semester 3 Planung/2026-08-24 Holey Kursbesprechung.md",
     "03 Templates/Screenshots",
     "00 Inbox/Untitled",
@@ -322,9 +325,7 @@
     "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
     "01 Vorlesungen/Operations Research/Übung OR Lineare Gleichungssysteme u. Gauß.md",
     "01 Vorlesungen/Operations Research/OR Klausurvorbereitung.md",
-    "02 Laufendes/Untitled.md",
     "02 Laufendes/iCinema Projekt",
-    "00 Inbox/prüfung.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "02 Laufendes/Semester 3 Planung",
