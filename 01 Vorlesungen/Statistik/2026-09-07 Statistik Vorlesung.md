@@ -52,7 +52,7 @@ Generelle Betrachtung von Korrelierenden Merkmalen => Im Folgenden 2 Merkmale
 **korrelation**: Wie stark ist der Zusammenhang zwischen 2 Merkmalen
 
 # Todo
-- [ ] #task 📅 2026-09-14 Statistik: Aufgaben 9 - 15
+- [x] #task 📅 2026-09-14 Statistik: Aufgaben 9 - 15
 	- [ ] Aufgabe 9
 	- [ ] Aufgabe 10
 	- [ ] Aufgabe 11
