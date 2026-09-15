@@ -127,7 +127,7 @@ $c_m$: Medianklassenbreite
 $$M = x_m^l + c_m · \frac{p_m - p_{m - 1}}{(p_m - p_{m-1}) + (p_m-p_{m+1})}$$
 
 ## Fechernsche Lagerverteilung
-Aussage über Verteilung => [[Beispiel Lagerparameter Nettostundenverdienste]]
+Aussage über Verteilung => ![[Beispiel Lagerparameter Nettostundenverdienste]]
 
 $X = Z = M$: symmetrisch
 $X > Z > M$: Linkssteil 

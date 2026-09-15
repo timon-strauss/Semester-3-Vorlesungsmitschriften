@@ -44,13 +44,13 @@ Man versucht gewisse Ziele zu erreichen durch Wirtschaftspolitik
 Betrachtet einzelne Märkte, also einzelne Wirtschaftssubjekte und analysiert das Entscheidungsverhalten
 - Nachfrageverhalten der Haushalte
 - Angebotsverhalten der Unternehmen
-
-**Makroökonomie**:
-Betrachtet die gesamte Volkswirtschaft und dessen Einflüsse
 - Marktnachfrage
 - Marktangebot
 - Markgleichgewicht
 - Wettbewerbspolitik
+
+**Makroökonomie**:
+Betrachtet die gesamte Volkswirtschaft und dessen Einflüsse
 
 **VGR**:
 Volkswirtschaftliche Gesamtrechnung
