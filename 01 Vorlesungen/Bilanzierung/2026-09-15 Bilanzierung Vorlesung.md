@@ -145,4 +145,4 @@ HGB trägt Gläubigerschutz!
 Rückstellungen werden über Aufwand abgebucht, also über das EK
 
 # Todo
-- [ ] #task Bilanzierung Aufgabe 1, 2 & Zusatzaufgabe
+- [x] #task Bilanzierung Aufgabe 1, 2 & Zusatzaufgabe

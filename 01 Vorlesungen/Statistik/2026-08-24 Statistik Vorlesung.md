@@ -87,7 +87,8 @@ $$\bar{X} = \frac{1}{n} \cdot \sum x_i$$
 $x_i^*$: Klassenmitte der i-ten Klasse
 $$\bar{X} = \frac{1}{n} · \sum x_i^* · f_i = \sum x_i^* · p_i $$
 
-**Geometrisches Mittel**:  Bei Wachstums durchschnitten darf **nicht** das arithmetische Mittel verwendet werden ->  [[Beispiel Geometrisches Mittel Unternehmensgewinn]]
+**Geometrisches Mittel**:  Bei Wachstums durchschnitten darf **nicht** das arithmetische Mittel verwendet werden ->  
+![[Beispiel Geometrisches Mittel Unternehmensgewinn]]
 
 $$x_i = 1 + \frac{\text{relative Änderung in \%}}{100}$$
 $$\bar{G} = \sqrt[n]{\prod_{i=1}^{n} x_i}$$
@@ -99,7 +100,7 @@ $$\bar{G} = \sqrt[n]{\prod_{i=1}^{n} x_i}$$
 - Ungerade Datenanzahl: Mittlerer Wert 
 - Gerade Datenanzahl: Durchschnitt der mittleren beiden Werten
 
-=> [[Beispiel Median Monatsgelder]]
+=> ![[Beispiel Median Monatsgelder]]
 
 **Median bei Klassen**: Diejenige Klasse bei welcher $F_i$:  50% erreicht
 
@@ -109,7 +110,7 @@ $c_z$: Zentralklassenbreite
 
 $$Z = x_z^l + c_z · \frac{0,5 - F_{z-1}}{p_z}$$
 
-=> [[Beispiel Median Monatsgelder]]
+=> ![[Beispiel Median Monatsgelder]]
 
 **Quartile**: Wie Median mit 4 Sektionen
 **Dezile**: Wie Median mit 10 Sektionen
@@ -126,7 +127,7 @@ $c_m$: Medianklassenbreite
 
 $$M = x_m^l + c_m · \frac{p_m - p_{m - 1}}{(p_m - p_{m-1}) + (p_m-p_{m+1})}$$
 
-## Fechernsche Lagerverteilung
+## Fechnersche Lagerverteilung
 Aussage über Verteilung => ![[Beispiel Lagerparameter Nettostundenverdienste]]
 
 $X = Z = M$: symmetrisch
