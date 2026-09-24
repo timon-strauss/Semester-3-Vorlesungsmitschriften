@@ -3,7 +3,8 @@
 - Statistik
 - VWL
 - Advanced IT
-- Finanzierung & Investment/Bilanzierung
+- Finanzierung & Investment
+- Bilanzierung
 
 # Todo
 ```tasks

@@ -15,6 +15,9 @@ tags:
 - Generalklausel => wenig präzision aber breit aufgestellt
 - Kodifizierter GoB: Vorsichtsprinzip, Realisationsprinzip, Imparitätsprinzip
 
+**kodifiziert**: steht im Gesetz definiert
+**nicht-kodifiziert**: steht nicht im Gesetz definiert
+
 **Vorsichtsprinzip**: Unternehmen müssen konservativ ihre finanzielle Situation bewerten und dürfen sich nicht reicher schätzen als sie sind
 - => Gläubigerschutz
 
@@ -69,7 +72,7 @@ Gewinne dürfen nur dann berücksichtigt werden, wenn sie realisiert sind => Erf
 - => Risiko auf Geldverlust basierend auf einem abgeschlossenen Geschäft, werden als Schulden angesehen, die aufgelöst werden, sobald das Risiko beseitigt ist
 
 **Prinzip X**: 
-- Ein und Ausnahmen, die nicht dem Umsatz zuzuschreiben sind, sind erfolgsneutral
+- Einnahmen und Ausgaben, die nicht dem Umsatz zuzuschreiben sind, sind erfolgsneutral
 
 **Prinzip XI - XII**: 
 - Schwebende Geschäfte werden nicht bilanziert

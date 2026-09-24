@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/2026-09-16 VWL Vorlesung.md",
+                "file": "01 Vorlesungen/Bilanzierung/2026-09-23 Bilanzierung.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-23 Bilanzierung"
+            }
+          },
+          {
+            "id": "cf0211fc570db546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/2026-09-16 VWL Vorlesung.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2026-09-16 VWL Vorlesung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,17 +299,33 @@
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
     "00 Inbox/2026-09-16 VWL Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-22 Advanced IT Vorlesung.md",
+    "01 Vorlesungen/Operations Research/2026-09-23 OR.md",
+    "01 Vorlesungen/Bilanzierung/2026-09-24 Bilanzierung.md",
+    "01 Vorlesungen/Bilanzierung/2026-09-17 Bilanzierung Vorlesung.md",
+    "01 Vorlesungen/Bilanzierung/2026-09-23 Bilanzierung.md",
+    "Screenshot 2026-09-24 at 14.17.40.png",
+    "Screenshot 2026-09-24 at 13.44.23.png",
+    "03 Templates/Screenshots/Screenshot 2026-09-24 at 13.07.06.png",
+    "03 Templates/Screenshots/Screenshot 2026-09-24 at 13.19.58.png",
+    "DHBW Dashboard.md",
+    "01 Vorlesungen/Operations Research/Übung Lineare Optimierung Pivot Tabelle.md",
+    "01 Vorlesungen/Bilanzierung/2026-09-15 Bilanzierung Vorlesung.md",
+    "03 Templates/Screenshots/Screenshot 2026-09-23 at 13.06.24.png",
     "00 Inbox/Lernen.md",
+    "03 Templates/Screenshots/IMG_2922.png.sb-8acce3f8-Rzwhxa",
+    "03 Templates/Screenshots/IMG_2922.png",
+    "01 Vorlesungen/Operations Research/2026-08-31 OR Vorlesung.md",
+    "01 Vorlesungen/Operations Research/2026-08-24 OR Vorlesung.md",
+    "01 Vorlesungen/Operations Research/OR Klausurvorbereitung.md",
+    "01 Vorlesungen/Operations Research/Übung Or Pivot Verfahren.md",
+    "01 Vorlesungen/Operations Research/Übung OR Lineare Gleichungssysteme u. Gauß.md",
+    "01 Vorlesungen/Advanced IT/2026-09-22 Advanced IT Vorlesung.md",
     "01 Vorlesungen/Advanced IT/Übung Advanced IT Ring Buffer.md",
     "03 Templates/Screenshots/Screenshot 2026-09-22 at 11.12.41.png",
     "03 Templates/Screenshots/Screenshot 2026-09-22 at 11.03.11.png",
     "03 Templates/Screenshots/Screenshot 2026-09-22 at 10.43.32.png",
     "Screenshot 2026-09-22 at 10.42.07.png",
     "Untitled.canvas",
-    "DHBW Dashboard.md",
-    "01 Vorlesungen/Bilanzierung/2026-09-17 Bilanzierung Vorlesung.md",
-    "01 Vorlesungen/Bilanzierung/2026-09-15 Bilanzierung Vorlesung.md",
     "00 Inbox/2026-09-18 Finanzierung Vorlesung.md",
     "00 Inbox/Singapur Bewerbung.md",
     "01 Vorlesungen/Statistik/2026-09-14 Statistik Vorlesung.md",
@@ -304,25 +335,10 @@
     "01 Vorlesungen/VWL/2026-09-02 VWL Vorlesung.md",
     "01 Vorlesungen/VWL/27-08-2026 VWL Vorlesung.md",
     "01 Vorlesungen/Statistik/Beispiel Statistik Korrelation & Regression.md",
-    "01 Vorlesungen/Statistik/Beispiel Statistik Zeitreihe.md",
     "00 Inbox/Untitled",
-    "01 Vorlesungen/Statistik/Beispiel Varianz & Standardabweichung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-01 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-08 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-25 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/Übung Advanced IT Aufgabe 10.md",
-    "01 Vorlesungen/Statistik/Beispiel Gini Koeffizient & Lorenzkurve.md",
-    "01 Vorlesungen/Statistik/Beispiel Bedingte Häufigkeitsverteilung & Statistische Unabhängigkeit.md",
-    "03 Templates/Screenshots/IMG_2905.png",
-    "03 Templates/Screenshots/IMG_2906.png",
-    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.50.58.png",
     "03 Templates/Screenshots/IMG_2905.heic",
     "03 Templates/IMG_2905.heic",
     "IMG_2905.heic",
-    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.49.59.png",
-    "03 Templates/Screenshots/Screenshot 2026-09-02 at 10.47.54.png",
-    "03 Templates/Screenshots/Screenshot 2026-09-02 at 09.21.45.png",
     "03 Templates/Screenshots/IMG_2905.HEIC",
     "03 Templates/IMG_2905.HEIC",
     "02 Laufendes/iCinema Projekt/iCinema Planung Modul Movie Catalog.canvas",
@@ -330,7 +346,6 @@
     "02 Laufendes/iCinema Projekt",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "02 Laufendes/Semester 3 Planung",
-    "01 Vorlesungen/VWL"
+    "02 Laufendes/Semester 3 Planung"
   ]
 }
