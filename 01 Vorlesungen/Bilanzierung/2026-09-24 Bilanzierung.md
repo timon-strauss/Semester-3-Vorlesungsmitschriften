@@ -59,6 +59,7 @@ Ab Folie 7 gehts weiter
 - wirtschaftliche Verursachung 
 	- tatbestandsmerkmale => Kriterien werden aufgestellt und beurteilt
 	- zugehörigkeit ... => Realisationsprinzip
+- => Der frühere Zeitpunkt hat priorität, sobald rechtliche Vollentstehung steht, muss wirtschaftliche Verursachung nicht ermittelt werden
 
 **Drohverlustrückstellung**: 
 - geht aus schwebenden Geschäft vor => Vertragsbildung für verkauf
