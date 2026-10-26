@@ -121,4 +121,4 @@ Z ermitteln anhand Tabelle => 95% => 1,96
 $$P(6.000 - 1,96 · \frac{4.800}{\sqrt{625}} =< X =< 6.000 + 1,96 · \frac{4.800}{\sqrt{625}}) = 95\% = P(35.623,69 =< \mu =< 36.376,32)$$
 
 # Todo
-- [ ] #task Statistik 29 - 39
+- [x] #task Statistik 29 - 39

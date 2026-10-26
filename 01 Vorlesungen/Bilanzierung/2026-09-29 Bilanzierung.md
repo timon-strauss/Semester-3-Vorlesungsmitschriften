@@ -69,12 +69,12 @@ tags:
 
 **Lifo**: 
 - Der Schlussbestand wurde vom Preis des Anfangs gekauft
-- Bestandswert => Ursprungspreis * Menge => 100 * 10
+- Bestandswert => Ursprungspreis · Menge => 100 · 10
 - Verbrauchswert => Verrechnung der Einkäufe mit den Mengen je Quartal zum jeweiligen Preis => Schlussbestand wurde nicht verkauft und wird mit den Anfangspreisen verrechnet
 
 **Fifo**
 - Der Schlussbestand wurde vom Preis des Endes gekauft
-- Bestandswert => Endpreis * Menge => 100 * 15
+- Bestandswert => Endpreis · Menge => 100 · 15
 - Verbrauchswert => Verrechnung der Einkäufe mit den Mengen je Quartal zum jeweiligen Preis => Schlussbestand wurde nicht verkauft und wird mit den Endpreisen verrechnet
 
 **permanentes Lifo**: Zwischenstandsberechnung der Reserven nach Quartal

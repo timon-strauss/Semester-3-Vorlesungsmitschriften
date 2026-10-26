@@ -36,4 +36,4 @@ Kriterien für Optimalität (Für Philosophen):
 3. Parallellität: Maximal viele Threads laufen gleichzeitig => Immer 2 Philosophen essen gleichzeitig
 
 # Todo
-- [ ] #task Advanced IT Testat
+- [x] #task Advanced IT Testat
