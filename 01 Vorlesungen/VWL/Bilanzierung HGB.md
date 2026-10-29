@@ -1,0 +1,49 @@
+- §238 Buchführungspflicht
+- §240 Inventarpflicht
+- §242 Aufstellungspflicht des Jahresabschlusses
+- §243 GoB
+	- Abs 1 GoB generalklausel
+- §246 Aktivierung & Passivierung
+	- Abs 1 Vollständigkeitsgrundsatz
+	- Abs 1 Satz 1 Aktivierungs/passivierungspflicht
+	- Abs 1 Satz 4 Aktivierungsgebot/verbot für derivativen/originären GoF
+- §248
+	- Abs 2 Satz 1 Aktivierungswahlrecht
+	- Abs 2 Satz 2 Aktivierungsverbot
+- §249
+	- Abs 1 Satz 1 Rückstellungen
+	- Abs 1 Satz 2 Drohverlustrückstellung
+	- Abs 1 satz 2 nr 1 Aufwandsrückstellung
+- §250
+	- Abs 1 ARAP
+	- Abs 2 PRAP
+	- Abs 3 Wahlrecht Disagio
+- §252 Bewertungsvorschriften
+	- Abs 1 Nr.3 Stichtagsprinzip
+	- Abs 1 Nr.4 Realisations, Imparitäts, Vorsichtsprinzip
+- §253 
+	- Abs 1
+		-  Satz 1 Ausgangswert/Wertobergrenze Aktiva
+		- Satz 2 Erfüllungsbetrag
+	- Abs 2 Satz 1 Abzinsung Rückstellungen
+	- Abs 3 gemildertes Niederstwertprinzip
+		- Satz 1 Planmäßige Abschreibung
+		- Satz 2 Nutzungsdauer
+		- Satz 3 Abschreibedauer 10 Jahre Standard
+		- Satz 4 Abschreibung GoF
+		- Satz 5 Außerplanmäßige Abschreibung bei dauernder Wertminderung
+		- Satz 6 Wahlrecht bei Finanzeinlagen
+	- Abs 4 strenges Niederstwertprinzip
+	- Abs 5
+		- Satz 1 Wertaufholungsgebot
+		- Satz 2 Wertaufholungsverbot GoF
+- §255
+	- Abs 1 Anschaffungskosten
+		- Satz 1 Anschaffungspreis
+		- Satz 2 Anschaffungsnebenkosten
+		- Satz 3 Anschaffungspreisminderung
+	- Abs 2 Herstellungskosten
+		- Abs 2a Entwicklungs vs Forschungskosten
+	- Abs 3 Ausnahmeneinbezug von Fremdkapitalzinsen (Wahlrecht)
+- §256 Verbrauchsfolgeverfahren (LiFo/FiFo)
+- §256a Ausnahme Fremdwährungsverpflichtung

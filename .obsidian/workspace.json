@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/2026-10-26 VWL.md",
-                "mode": "source",
+                "file": "01 Vorlesungen/VWL/Bilanzierung HGB.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-10-26 VWL"
+              "title": "Bilanzierung HGB"
             }
           }
         ]
@@ -283,16 +283,19 @@
   },
   "active": "b6b4d4e1b9ca8445",
   "lastOpenFiles": [
-    "00 Inbox/2026-10-26 VWL.md",
+    "01 Vorlesungen/VWL/Bilanzierung HGB.md",
+    "01 Vorlesungen/Advanced IT/2026-10-27 Advanced IT.md",
+    "DHBW Dashboard.md",
+    "00 Inbox/Lernen.md",
     "01 Vorlesungen/Finanzierung & Investierung/Formelblatt.md",
-    "00 Inbox/Bilanzierung HGB.md",
+    "01 Vorlesungen/VWL/2026-10-26 VWL.md",
+    "01 Vorlesungen/Statistik/Beispiel Gini Koeffizient & Lorenzkurve.md",
+    "01 Vorlesungen/Statistik/2026-09-14 Statistik Vorlesung.md",
     "01 Vorlesungen/Operations Research/OR Klausurvorbereitung.md",
     "01 Vorlesungen/Operations Research/2026-10-22 OR.md",
     "01 Vorlesungen/Advanced IT/AdvancedIT 2026-10-21.md",
     "01 Vorlesungen/Statistik/2026-10-14 Statistik.md",
     "01 Vorlesungen/Statistik/2026-09-30 Statistik.md",
-    "DHBW Dashboard.md",
-    "00 Inbox/Lernen.md",
     "00 Inbox/2026-10-14 VWL.md",
     "01 Vorlesungen/Bilanzierung/2026-09-15 Bilanzierung Vorlesung.md",
     "01 Vorlesungen/Bilanzierung/2026-09-29 Bilanzierung.md",
@@ -306,9 +309,6 @@
     "01 Vorlesungen/Bilanzierung/2026-09-17 Bilanzierung Vorlesung.md",
     "01 Vorlesungen/Bilanzierung/2026-09-30 Bilanzierung.md",
     "01 Vorlesungen/Advanced IT/2026-09-22 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-08 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-09-01 Advanced IT Vorlesung.md",
-    "01 Vorlesungen/Advanced IT/2026-08-31 Advanced IT Vorlesung.md",
     "03 Templates/Screenshots/IMG_2972.png",
     "03 Templates/Screenshots/Screenshot 2026-10-05 at 09.58.36.png",
     "03 Templates/Screenshots/Screenshot 2026-10-05 at 09.39.51.png",
